@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Pixyll
+
+baseurl: ""
+url: "https://pixyll.com/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
